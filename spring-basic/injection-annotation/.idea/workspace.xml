@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9acab0e8-3481-4d23-9b14-746756fbc2e4" name="Default" comment="" />
-    <ignored path="injection1.iws" />
+    <list default="true" id="34007777-bec9-4ecf-89db-91b891d2abe1" name="Default" comment="" />
+    <ignored path="injection-annotation.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,14 +60,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="injection1" />
+    <favorites_list name="injection-annotation" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="27" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+            <state line="32" column="0" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -76,57 +76,7 @@
       <file leaf-file-name="Account.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="37" selection-start="8" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-              <folding>
-                <element signature="e#247#248#0" expanded="false" />
-                <element signature="e#272#273#0" expanded="false" />
-                <element signature="e#305#306#0" expanded="false" />
-                <element signature="e#333#334#0" expanded="false" />
-                <element signature="e#368#369#0" expanded="false" />
-                <element signature="e#400#401#0" expanded="false" />
-                <element signature="e#449#450#0" expanded="false" />
-                <element signature="e#491#492#0" expanded="false" />
-                <element signature="e#524#525#0" expanded="false" />
-                <element signature="e#554#555#0" expanded="false" />
-                <element signature="e#599#600#0" expanded="false" />
-                <element signature="e#637#638#0" expanded="false" />
-                <element signature="e#671#672#0" expanded="false" />
-                <element signature="e#704#705#0" expanded="false" />
-                <element signature="e#753#754#0" expanded="false" />
-                <element signature="e#797#798#0" expanded="false" />
-                <element signature="e#829#830#0" expanded="false" />
-                <element signature="e#858#859#0" expanded="false" />
-                <element signature="e#902#903#0" expanded="false" />
-                <element signature="e#938#939#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountDao.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="17" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountDaoInMemoryImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="33" selection-start="1412" selection-end="1412" vertical-scroll-proportion="0.0" vertical-offset="686" max-vertical-offset="1530">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+            <state line="41" column="26" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
@@ -135,22 +85,17 @@
       <file leaf-file-name="AccountServiceImpl.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="35" selection-start="995" selection-end="995" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-              <folding>
-                <element signature="e#238#239#0" expanded="false" />
-                <element signature="e#282#283#0" expanded="false" />
-              </folding>
+            <state line="9" column="31" selection-start="221" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="782">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ch2BeanConfiguration.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Ch2BeanConfiguration.java">
+      <file leaf-file-name="AccountService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="0" column="35" selection-start="8" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -158,7 +103,25 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="43" selection-start="235" selection-end="235" vertical-scroll-proportion="0.18127961" vertical-offset="0" max-vertical-offset="844">
+            <state line="19" column="85" selection-start="755" selection-end="755" vertical-scroll-proportion="0.5872727" vertical-offset="0" max-vertical-offset="663">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ch2-beans.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/wiley/beginningspring/ch2/ch2-beans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="565" selection-end="565" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountDaoInMemoryImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="139" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1598">
               <folding />
             </state>
           </provider>
@@ -174,13 +137,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Account.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Ch2BeanConfiguration.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/ch2-beans.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Main.java" />
       </list>
     </option>
@@ -220,12 +180,11 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="injection1" />
+              <option name="myItemId" value="injection-annotation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -235,21 +194,65 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="injection1" />
+              <option name="myItemId" value="injection-annotation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="injection1" />
+              <option name="myItemId" value="injection-annotation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="injection1" />
+              <option name="myItemId" value="injection-annotation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="injection1" />
+              <option name="myItemId" value="injection-annotation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="injection-annotation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="injection-annotation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="injection-annotation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="injection-annotation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -271,6 +274,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,16 +285,18 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="reference.settings.project.maven.repository.indices" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\source_code\1_Learn\java\java-spring\spring-basic\injection-annotation\src\main\resources\com\wiley\beginningspring\ch2" />
+      <recent name="D:\source_code\1_Learn\java\java-spring\spring-basic\injection-annotation\src\main\java\com\wiley\beginningspring\ch2" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -309,7 +315,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="injection1" />
+      <module name="injection-annotation" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -342,6 +348,19 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -368,19 +387,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -542,21 +548,21 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9acab0e8-3481-4d23-9b14-746756fbc2e4" name="Default" comment="" />
-      <created>1443540133731</created>
-      <updated>1443540133731</updated>
-      <workItem from="1443540135668" duration="1104000" />
-      <workItem from="1443541241426" duration="2170000" />
-      <workItem from="1444012575072" duration="5695000" />
+      <changelist id="34007777-bec9-4ecf-89db-91b891d2abe1" name="Default" comment="" />
+      <created>1444014775560</created>
+      <updated>1444014775560</updated>
+      <workItem from="1444014778810" duration="190000" />
+      <workItem from="1444014971086" duration="3701000" />
+      <workItem from="1444028357991" duration="2207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8969000" />
+    <option name="totallyTimeSpent" value="6098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -571,19 +577,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22890624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -610,219 +615,147 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="44" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="663">
+        <state line="32" column="0" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="5" selection-start="939" selection-end="939" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="833">
-          <folding>
-            <element signature="e#247#248#0" expanded="false" />
-            <element signature="e#272#273#0" expanded="false" />
-            <element signature="e#305#306#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#368#369#0" expanded="false" />
-            <element signature="e#400#401#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#524#525#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-            <element signature="e#599#600#0" expanded="false" />
-            <element signature="e#637#638#0" expanded="false" />
-            <element signature="e#671#672#0" expanded="false" />
-            <element signature="e#704#705#0" expanded="false" />
-            <element signature="e#753#754#0" expanded="false" />
-            <element signature="e#797#798#0" expanded="false" />
-            <element signature="e#829#830#0" expanded="false" />
-            <element signature="e#858#859#0" expanded="false" />
-            <element signature="e#902#903#0" expanded="false" />
-            <element signature="e#938#939#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="33" selection-start="1412" selection-end="1412" vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1581">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="46" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="272">
+        <state line="41" column="26" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="833">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="35" selection-start="995" selection-end="995" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="697">
-          <folding>
-            <element signature="e#238#239#0" expanded="false" />
-            <element signature="e#282#283#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Ch2BeanConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="20" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="493">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="5" selection-start="939" selection-end="939" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="833">
-          <folding>
-            <element signature="e#247#248#0" expanded="false" />
-            <element signature="e#272#273#0" expanded="false" />
-            <element signature="e#305#306#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#368#369#0" expanded="false" />
-            <element signature="e#400#401#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#524#525#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-            <element signature="e#599#600#0" expanded="false" />
-            <element signature="e#637#638#0" expanded="false" />
-            <element signature="e#671#672#0" expanded="false" />
-            <element signature="e#704#705#0" expanded="false" />
-            <element signature="e#753#754#0" expanded="false" />
-            <element signature="e#797#798#0" expanded="false" />
-            <element signature="e#829#830#0" expanded="false" />
-            <element signature="e#858#859#0" expanded="false" />
-            <element signature="e#902#903#0" expanded="false" />
-            <element signature="e#938#939#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="54" selection-start="1326" selection-end="1326" vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="1581">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="33" selection-start="1412" selection-end="1412" vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="1581">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+        <state line="9" column="31" selection-start="221" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+        <state line="0" column="35" selection-start="8" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="35" selection-start="995" selection-end="995" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-          <folding>
-            <element signature="e#238#239#0" expanded="false" />
-            <element signature="e#282#283#0" expanded="false" />
-          </folding>
+        <state line="19" column="0" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/wiley/beginningspring/ch2/ch2-beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="139" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1598">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+        <state line="32" column="0" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="37" selection-start="8" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="844">
-          <folding>
-            <element signature="e#247#248#0" expanded="false" />
-            <element signature="e#272#273#0" expanded="false" />
-            <element signature="e#305#306#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#368#369#0" expanded="false" />
-            <element signature="e#400#401#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#524#525#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-            <element signature="e#599#600#0" expanded="false" />
-            <element signature="e#637#638#0" expanded="false" />
-            <element signature="e#671#672#0" expanded="false" />
-            <element signature="e#704#705#0" expanded="false" />
-            <element signature="e#753#754#0" expanded="false" />
-            <element signature="e#797#798#0" expanded="false" />
-            <element signature="e#829#830#0" expanded="false" />
-            <element signature="e#858#859#0" expanded="false" />
-            <element signature="e#902#903#0" expanded="false" />
-            <element signature="e#938#939#0" expanded="false" />
-          </folding>
+        <state line="41" column="26" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="833">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Ch2BeanConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="8" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="26" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="0.078612715" vertical-offset="0" max-vertical-offset="865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="139" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="221" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="8" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/wiley/beginningspring/ch2/ch2-beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="565" selection-end="565" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.5.RELEASE/spring-context-4.0.5.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="165" selection-end="285" vertical-scroll-proportion="0.16601562" vertical-offset="0" max-vertical-offset="595">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wiley/beginningspring/ch2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="235" selection-end="235" vertical-scroll-proportion="0.18127961" vertical-offset="0" max-vertical-offset="844">
+        <state line="19" column="85" selection-start="755" selection-end="755" vertical-scroll-proportion="0.5872727" vertical-offset="0" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
@@ -879,12 +812,23 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>injection1</last-edited>
+          <last-edited>injection-annotation</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -892,7 +836,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <last-edited>Maven: org.aspectj:aspectjweaver:1.7.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
