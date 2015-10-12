@@ -7,6 +7,7 @@ import javax.persistence.PersistenceContext;
 
 import org.springframework.stereotype.Repository;
 
+import org.springframework.transaction.annotation.Transactional;
 import spittr.db.SpitterRepository;
 import spittr.domain.Spitter;
 
@@ -14,6 +15,7 @@ import spittr.domain.Spitter;
  * Created by Administrator on 10/10/15.
  */
 @Repository
+@Transactional
 public class JpaSpitterRepository implements SpitterRepository  {
 
     @PersistenceContext
