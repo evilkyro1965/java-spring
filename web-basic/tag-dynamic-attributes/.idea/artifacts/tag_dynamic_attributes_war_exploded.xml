@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tag-dynamic-attributes:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/tag_dynamic_attributes_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="tag-dynamic-attributes/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tag-dynamic-attributes" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

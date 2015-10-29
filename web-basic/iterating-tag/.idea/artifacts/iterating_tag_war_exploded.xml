@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="iterating-tag:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/iterating_tag_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="iterating-tag/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="iterating-tag" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
